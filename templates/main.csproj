@@ -11,13 +11,13 @@
         <RepositoryType>Git</RepositoryType>
         <Version>{version}</Version>
         <PackageId>Moroshka.{Name}</PackageId>
-        <RepositoryUrl>https://github.com/moroshka-game/moroshka-{name}.git</RepositoryUrl>
+        <RepositoryUrl>https://github.com/moroshka-dev/moroshka-{name}.git</RepositoryUrl>
         <Description>{description}</Description>
-        <PackageProjectUrl>https://github.com/moroshka-game/moroshka-{name}</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/moroshka-dev/moroshka-{name}</PackageProjectUrl>
         <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageTags>unity</PackageTags>
-        <PackageReleaseNotes>https://github.com/moroshka-game/moroshka-{name}/blob/main/upm/CHANGELOG.md</PackageReleaseNotes>
+        <PackageReleaseNotes>https://github.com/moroshka-dev/moroshka-{name}/blob/main/upm/CHANGELOG.md</PackageReleaseNotes>
         <RootNamespace>Moroshka.{Name}</RootNamespace>
     </PropertyGroup>
 
