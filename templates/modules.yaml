@@ -1,9 +1,12 @@
-- url: https://github.com/moroshka-game/moroshka-xcp
+- url: https://github.com/moroshka-dev/moroshka-xcp
   name: Xcp
   version: 1.0.0
-- url: https://github.com/epishev-m/e314-protect
+- url: https://github.com/moroshka-dev/moroshka-protect
   name: Protect
-  version: 2.1.1
-- url: https://https://github.com/moroshka-dev/moroshka-collections
+  version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-collections
   name: Collections
+  version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-type-analyzer
+  name: TypeAnalyzer
   version: 1.0.0
