@@ -65,7 +65,7 @@ openupm add com.moroshka.{name}
 3. Ввести url и нажать Add.
 
 ```url
-https://github.com/moroshka-game/moroshka-{name}.git?path=upm#v#.#.#
+https://github.com/moroshka-dev/moroshka-{name}.git?path=upm#v#.#.#
 ```
 
 ### tarball
@@ -76,7 +76,7 @@ https://github.com/moroshka-game/moroshka-{name}.git?path=upm#v#.#.#
 4. Выбрать скачанный .tgz.gz файл и нажать Open.
 
 ``` url
-https://github.com/moroshka-game/moroshka-{name}/releases/
+https://github.com/moroshka-dev/moroshka-{name}/releases/
 ```
 
 ## NuGet
