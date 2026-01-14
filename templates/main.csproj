@@ -7,7 +7,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>Moroshka.{Name}</Title>
         <Authors>Moroshka</Authors>
-        <Copyright>Copyright (c) 2025 Moroshka</Copyright>
+        <Copyright>Copyright (c) 2026 Moroshka</Copyright>
         <RepositoryType>Git</RepositoryType>
         <Version>{version}</Version>
         <PackageId>Moroshka.{Name}</PackageId>
