@@ -8,5 +8,8 @@
   name: Collections
   version: 1.0.0
 - url: https://github.com/moroshka-dev/moroshka-type-analyzer
-  name: TypeAnalyzer
+  name: Type Analyzer
+  version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-factory
+  name: Factory
   version: 1.0.0
