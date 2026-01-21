@@ -13,3 +13,9 @@
 - url: https://github.com/moroshka-dev/moroshka-factory
   name: Factory
   version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-object-pool
+  name: Object Pool
+  version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-instance-provider
+  name: Instance Provider
+  version: 1.0.0
