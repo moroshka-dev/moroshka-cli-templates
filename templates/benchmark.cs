@@ -6,6 +6,6 @@ namespace Moroshka.{Name}.Benchmark;
 [MemoryDiagnoser]
 [RankColumn]
 [SuppressMessage("Performance", "CA1822")]
-public sealed class Benchmark
+public class Benchmark
 {
 }
